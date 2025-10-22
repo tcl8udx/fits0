@@ -410,6 +410,6 @@ int main(int argc, char** argv) {
     std::cout << "- INCREASE sigma: larger uncertainties, parameters vary more" << std::endl;
     std::cout << "- DECREASE sigma: tighter fits, chi2 may increase if model inadequate" << std::endl;
     
-    theApp.Run();
+    //theApp.Run();
 
 }

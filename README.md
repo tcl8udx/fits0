@@ -24,6 +24,10 @@ Other files:
 - Lagrange.cpp: code to perform a Lagrange interpolation
 
 
+TO RUN THE .cpp FILE, TYPE INTO THE TERMINAL:
+c++ -O2 LSQFit.cpp $(root-config --cflags --glibs) -o LSQFit && ./LSQFit
+
+
 
 STUDENT ANSWERS:
 
